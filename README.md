@@ -11,7 +11,7 @@
     <a href="https://didiei3.itch.io/sensatos-espolios-temporais">Sensato's: Espólios Temporais</a> - An adventure game made in Java.
   </li>
   <li>
-    <a href="https://didiei3.itch.io/dark-gears">Dark Gears</a> - An RPG game made in C++.
+    <a href="https://didiei3.itch.io/dark-gears">Dark Gears</a> - An RPG game made in C.
   </li>
 </ul>
 <br/>
