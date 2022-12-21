@@ -1,4 +1,4 @@
-<p>Hello! I'm Kelvin, Hello! I'm a game developer with focus on doing art and programming!</p>
+<p>Hello! I'm Kelvin, I'm a game developer with focus on doing art and programming!</p>
 <p>Here are some of the games I worked on:</p>
 <ul>
   <li>
