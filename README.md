@@ -2,6 +2,9 @@
 <p>Here are some of the games I worked on:</p>
 <ul>
   <li>
+    <a href="https://didiei3.itch.io/sensatos-invasao-a-colmeia">Sensato's: Invasão à Colmeia</a> - A top-down shooter and stealth game.
+  </li>
+  <li>
     <a href="https://mewmewdevart.itch.io/mondness">Mondness</a> - A puzzle game made for "GamerElla 2021" and winner of the “I Want to Keep Playing!” award.
   </li>
   <li>
